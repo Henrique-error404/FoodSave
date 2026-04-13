@@ -80,6 +80,18 @@ Foi definido o uso de:
 - Inserção manual via APEX  
 - (Planejado) integração com APIs externas de receitas  
 
+
+---
+
+## Integrantes 👥
+| Nome             | RM          |
+|------------------|-------------|
+| Henrique marques | RM 560698   |
+| Lucas chicote    | RM 559366   |
+| Lucas gomes      | RM 559607   |
+
+---
+
 ### Estrutura:
 ```json
 {
